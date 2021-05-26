@@ -6,6 +6,8 @@ Estudos sobre a validação de CPF em JavaScript.
 
 
 Artigos utilizados:
-https://www.geradorcpf.com/javascript-validar-cpf.htm \n
+https://www.geradorcpf.com/javascript-validar-cpf.htm 
+
 https://www.devmedia.com.br/validar-cpf-com-javascript/23916
+
 https://www.youtube.com/watch?v=ibGwuELJQKQ
